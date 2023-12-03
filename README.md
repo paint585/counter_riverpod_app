@@ -5,6 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This is a simple counter application, which is implemented by Flutter. 
+This project will also implement the Riverpod package as a tool of state management. 
+This will not include Riverpod code generation.
 
 A few resources to get you started if this is your first Flutter project:
 
